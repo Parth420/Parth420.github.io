@@ -3,7 +3,7 @@
 Computer Engineering
 
 ### Projects
-Data Engineer Trainee @ Tredytech
+Data Engineer Trainee @ Trendytech
 - Project 1
 - Project 2
 
